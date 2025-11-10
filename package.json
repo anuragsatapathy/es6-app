@@ -1,0 +1,14 @@
+{
+  "name": "es6-app",
+  "version": "1.0.0",
+  "description": "Node.js app using ES6 features",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
